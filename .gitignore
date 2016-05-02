@@ -59,7 +59,5 @@ docs/_build/
 target/
 
 #Ipython Notebook
+/.idea
 .ipynb_checkpoints
-
-#Other
-.idea/
