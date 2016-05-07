@@ -4,6 +4,10 @@
 
 Search for emails and phone numbers in the clipboard. Auto copies contact information back to the clipboard.
 
+**./madlibs.py**
+
+Very simple mad libs example.
+
 **./multiclipboard.py**
 
 Keep track of multiple pieces of text. Save each paste as a unique keyword.
