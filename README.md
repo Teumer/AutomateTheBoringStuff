@@ -19,3 +19,7 @@ Generate multiple quizzes on the U.S. states and capitals. Each quiz is unique t
 **./regex.py**
 
 Examples of Python regular expression.
+
+**./rename_dates.py**
+
+Renames file names with American MM-DD-YYYY date format to European DD-MM-YYYY
