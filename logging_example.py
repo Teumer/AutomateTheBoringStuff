@@ -1,7 +1,13 @@
 #! python3
 import logging
 
-logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
+# Comment out if debugging
+# logging.disable(logging.DEBUG)
+
+logging.basicConfig(
+    filename="program_log.txt",
+    level=logging.DEBUG,
+    format=' %(asctime)s - %(levelname)s - %(message)s')
 logging.debug("Start of program")
 
 
