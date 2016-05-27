@@ -1,4 +1,6 @@
 #! python3
+# error_example.py - quick example of handling errors and raising exceptions
+
 import traceback
 
 
