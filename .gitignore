@@ -6,3 +6,5 @@
 clippy.bat
 /apikey.py
 /lucky.py
+__pycache__/
+apikey.py
